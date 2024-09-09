@@ -7,6 +7,9 @@ int main()
     //        containing the values 6 and 1.87, respectively.
     //        (Use C-style variable initialization)
 
+    int i = 6;
+    float g = 1.6;
+    
     //Task 2: Print the message "The value of i is " followed by the value of i and a newline
     //        (using one statement)
 
